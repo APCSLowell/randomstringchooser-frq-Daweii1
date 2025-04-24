@@ -4,6 +4,7 @@ public class RandomStringChooser
   private Arraylist <String> boom;
 
   public RandomStringChooser(String[] a) {
+    boom = new Arraylist <String>;
   for(int i =0; i < a.length; i++) {
 boom.add(a[i]);
   }
