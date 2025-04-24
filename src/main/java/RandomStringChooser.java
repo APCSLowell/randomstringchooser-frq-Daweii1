@@ -3,7 +3,7 @@ public class RandomStringChooser
 {
   private Arraylist <String> boom;
 
-  public RandomStringChooser(string[] a) {
+  public RandomStringChooser(String[] a) {
   for(int i =0; i < a.length; i++) {
 boom.add(a[i]);
   }
