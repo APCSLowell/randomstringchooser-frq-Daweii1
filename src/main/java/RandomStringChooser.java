@@ -1,10 +1,10 @@
 import java.util.*;
 public class RandomStringChooser
 {
-  private Arraylist <String> boom;
+  private ArrayList <String> boom;
 
   public RandomStringChooser(String[] a) {
-    boom = new Arraylist <String> ();
+    boom = new ArrayList <String> ();
   for(int i =0; i < a.length; i++) {
 boom.add(a[i]);
   }
